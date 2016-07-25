@@ -3,8 +3,8 @@ July 25, 2016
 
 <em> Files required:
 
-entertainment_center.py
-fresh_tomatoes.py
+entertainment_center.py <br>
+fresh_tomatoes.py <br>
 media.py </em>
 
 This project creates an HTML webpage on which the trailers from some
