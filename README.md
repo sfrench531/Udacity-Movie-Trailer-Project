@@ -1,11 +1,11 @@
 <h2> Movie Trailer Website Project </h2>
 July 25, 2016
 
-Files required:
+<em> Files required:
 
 entertainment_center.py
 fresh_tomatoes.py
-media.py
+media.py </em>
 
 This project creates an HTML webpage on which the trailers from some
 selected movies ("Fantastic Mr. Fox", "Eternal Sunshine of the Spotless Mind",
