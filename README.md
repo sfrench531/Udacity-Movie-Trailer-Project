@@ -1,4 +1,4 @@
-Movie Trailer Website Project
+<h2> Movie Trailer Website Project </h2>
 July 25, 2016
 
 Files required:
