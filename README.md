@@ -1,4 +1,4 @@
-<h2> Movie Trailer Website Project </h2>
+<h2> Udacity Movie Trailer Website Project </h2>
 July 25, 2016
 
 <em> Files required:
