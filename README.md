@@ -13,4 +13,4 @@ selected movies ("Fantastic Mr. Fox", "Eternal Sunshine of the Spotless Mind",
 
 Executing the entertainment_center.py module will be sufficient to create the 
 HTML document and open it in a web browser. The HTML document generated is also
-saved in this repository. 
+saved in this repository; it is called fresh_tomatoes.html. 
